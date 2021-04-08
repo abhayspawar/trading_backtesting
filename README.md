@@ -24,4 +24,5 @@ frameworks and if they don't work, only then I would go for writing one from scr
 code after going through several iterations. I tried out several ways to optimize the code by vectorization and
 parallelization. But, ultimately the simple idea of iterating through each trading day worked the best. The final
 piece of code doesn't seem that complicated, but my thought process took a fairly long and winding road to reach there :D.
+
 It was fun though! And that is what matters the most.
