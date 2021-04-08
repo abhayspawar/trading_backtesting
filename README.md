@@ -1,5 +1,5 @@
 # trading_backtesting
-Example of writing a backtesting framework from scratch.
+Example of implementing a backtesting framework from scratch.
 
 ### Why?
 Implementing backtesting is seen as something very complicated, but actually it is not! 
