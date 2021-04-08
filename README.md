@@ -17,3 +17,9 @@ The `trade` function in backtesting.py implements my trading strategy which is a
 
 ### Usage Details
 examples.py shows how to use these to run backtesting on my trading strategy and the benchmark strategy.
+
+### Some random thoughts
+I wouldn't recommend using code as is for your backtesting purpose. I would definitely try out existing
+frameworks and if they don't work, only then I would go for writing one from scratch. I landed on this piece of
+code after going through several iterations. I tried out several ways to optimize the code by vectorization and
+parallelization. But, ultimately the simple idea of iterating through each trading day worked the best.
