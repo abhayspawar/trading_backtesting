@@ -1,6 +1,10 @@
 import numpy as np
 import pandas as pd
 
+def get_ohlc_data():
+    # Not implemented
+    return ()
+
 def get_pct_change(val1, val2):
     return (val2-val1)/val1
 
